@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Terminal</string>
+    <string name="title_activity_main">Terminal</string>
+    <string name="string_send">Send</string>
+
+</resources>
